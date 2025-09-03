@@ -1,15 +1,18 @@
+# _config.yml
 title: Портфолио Андрея
 description: Персональное портфолио Java-разработчика
 theme: jekyll-theme-minimal
 
-# Разрешить обработку всех файлов .md
-include: ['README.md']
+# Включить обработку README.md
+include: ["README.md"]
 
-# Настройка главной страницы
+# Настройка для README.md
 defaults:
-  -
-    scope:
+  - scope:
       path: "README.md"
     values:
       layout: default
-      permalink: /index.html
+      permalink: /index.html  # Это сделает README.md главной страницей
+
+# Отключить безопасный режим для include
+safe: false
