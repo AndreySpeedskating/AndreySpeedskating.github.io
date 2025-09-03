@@ -23,9 +23,4 @@
 - **GitHub**: [AndreySpeedskating](https://github.com/AndreySpeedskating)
 - **Telegram**: @andrey_java
 
-## 📷 Фото
-![Мое фото](https://via.placeholder.com/200x200/007bff/ffffff?text=Andrey)
-
----
-
 *Спасибо за посещение моего портфолио!*
