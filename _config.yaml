@@ -1,0 +1,15 @@
+title: Портфолио Андрея
+description: Персональное портфолио Java-разработчика
+theme: jekyll-theme-minimal
+
+# Разрешить обработку всех файлов .md
+include: ['README.md']
+
+# Настройка главной страницы
+defaults:
+  -
+    scope:
+      path: "README.md"
+    values:
+      layout: default
+      permalink: /index.html
